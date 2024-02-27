@@ -26,7 +26,7 @@ This project is licensed under the {Nunggu Sponsor}
 
 ## Author
 
-- [Your Name](https://github.com/Andreas-23)
+- [Andreas M Simanullang](https://github.com/Andreas-23)
 
 ## Contact
 
